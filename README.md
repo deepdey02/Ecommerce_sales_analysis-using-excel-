@@ -1,6 +1,6 @@
 # Ecommerce_sales_analysis-(Interactive dashboard creation using MS excel)
 Interactive dashboard creation using excel
- Excited to share my first Excel project! 
+ Excited to share my first Excel project! [Dataset file](https://github.com/deepdey02/Ecommerce_sales_analysis-using-excel-/blob/main/Ecommerce%20Sales%20dataset.xlsx)
 
 I worked on E-commerce Sales Data (2011–2014) and built an interactive dashboard in Excel to analyze business performance.
 

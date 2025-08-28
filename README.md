@@ -15,3 +15,4 @@ Visualized regional sales distribution across states
 
  The dashboard provides a clear view of sales trends, profit margins, and product growth—helping make data-driven decisions.
 This project not only strengthened my Excel skills but also gave me hands-on experience in turning raw data into actionable insights. 
+[Image](https://github.com/deepdey02/Ecommerce_sales_analysis-using-excel-/blob/main/dashboard_image.png) 

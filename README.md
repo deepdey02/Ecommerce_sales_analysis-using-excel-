@@ -1,4 +1,4 @@
-# Ecommerce_sales_analysis-using-excel-
+# Ecommerce_sales_analysis-(Interactive dashboard creation using MS excel)
 Interactive dashboard creation using excel
  Excited to share my first Excel project! 
 
